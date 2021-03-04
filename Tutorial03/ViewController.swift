@@ -15,9 +15,9 @@ class ViewController: UIViewController {
     var index: Int = 0
     // Assets.xcassetsの中に入れた画像を配列に入れる。
     var imageArray: [UIImage] = [
-        UIImage(named: "image0")!,
-        UIImage(named: "image1")!,
-        UIImage(named: "image2")!,
+        UIImage(named: "Image0")!,
+        UIImage(named: "Image1")!,
+        UIImage(named: "Image2")!,
     ]
     
     override func viewDidLoad() {
